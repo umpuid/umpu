@@ -2,7 +2,7 @@
 title: "Balian"
 description: "Balian Suku Dayak: Jembatan Spiritual, Penjaga Tradisi, dan Pilar Kehidupan"
 pubDate: "2025-08-15"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "https://upload.wikimedia.org/wikipedia/id/thumb/9/95/Salah_satu_tokoh_Balian_Kaharingan_suku_Dayak_Meratus%2C_Kalimantan_Selatan.jpeg/330px-Salah_satu_tokoh_Balian_Kaharingan_suku_Dayak_Meratus%2C_Kalimantan_Selatan.jpeg"
 ---
 ### **Daftar Isi**
 
