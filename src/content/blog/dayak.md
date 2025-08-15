@@ -2,7 +2,7 @@
 title: "Suku Dayak"
 description: "Suku Dayak: Menjelajahi Kedalaman Sejarah, Budaya, dan Kehidupan Modern di Jantung Kalimantan"
 pubDate: "2025-08-15"
-heroImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/COLLECTIE_TROPENMUSEUM_Een_Dajak_uit_Kutai_in_oorlogskleding_Borneo_TMnr_10005634.jpg/250px-COLLECTIE_TROPENMUSEUM_Een_Dajak_uit_Kutai_in_oorlogskleding_Borneo_TMnr_10005634.jpg"
+heroImage: "https://yudifebrianda.wordpress.com/wp-content/uploads/2017/09/img_9909.jpg"
 ---
 Daftar Isi
 - Pengantar: Menyapa Penjaga Hutan Borneo
@@ -375,3 +375,4 @@ Meskipun demikian, ada secercah harapan. Ketahanan budaya Dayak terlihat dari ke
 57. Apa Tantangan yang Dihadapi oleh Generasi Muda dalam Upayanya Melestarikan Tradisi Lokal? \- Intisari Online, diakses Agustus 15, 2025, [https://intisari.grid.id/read/033919599/apa-tantangan-yang-dihadapi-oleh-generasi-muda-dalam-upayanya-melestarikan-tradisi-lokal](https://intisari.grid.id/read/033919599/apa-tantangan-yang-dihadapi-oleh-generasi-muda-dalam-upayanya-melestarikan-tradisi-lokal)  
 58. nilai-nilai dan upaya pelestarian tradisi adat balala' pada suku dayak kanayatn di dusun \- Jurnal Untan, diakses Agustus 15, 2025, [https://jurnal.untan.ac.id/index.php/jpdpb/article/viewFile/46019/75676588902](https://jurnal.untan.ac.id/index.php/jpdpb/article/viewFile/46019/75676588902)  
 59. Suku Dayak Kenyah \- Wikipedia bahasa Indonesia, ensiklopedia bebas, diakses Agustus 15, 2025, [https://id.wikipedia.org/wiki/Suku\_Dayak\_Kenyah](https://id.wikipedia.org/wiki/Suku_Dayak_Kenyah)
+Sumber gambar : https://yudifebrianda.wordpress.com/wp-content/uploads/2017/09/img_9909.jpg
