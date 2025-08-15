@@ -2,7 +2,7 @@
 title: "Mandau"
 description: "Mandau: Pusaka Abadi Suku Dayak—Sebuah Tinjauan Holistik atas Seni, Sejarah, dan Spiritualitas"
 pubDate: "2025-08-15"
-heroImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dayak_Deah_Man_160213003.JPG"
+heroImage: "/mandau.jfif"
 ---
 
 ### **Daftar Isi**
