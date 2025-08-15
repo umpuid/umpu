@@ -2,7 +2,7 @@
 title: "Tarian Dayak"
 description: "Sejarah dan Asal-Usul Tarian Dayak: Berakar pada Kehidupan dan Kepercayaan Leluhur"
 pubDate: "2025-08-15"
-heroImage: "https://infopublik.id/resources/album/juli-2022/FDGDTH_sg_compressed.jpg"
+heroImage: "/tari-dayak-deah.jpg"
 ---
 
 
@@ -326,3 +326,4 @@ https://m.youtube.com/watch?v=Q4mHwzmOjVY\&pp=0gcJCfwAo7VqN5tD
 35. upaya pelestarian kearifan lokal tradisi nyamaru suku dayak ntuka sebagai wujud cinta budaya \- Portal Jurnal Online STKIP Persada Khatulistiwa Sintang, diakses Agustus 16, 2025, [https://jurnal.stkippersada.ac.id/jurnal/index.php/PEKAN/article/download/1463/1075](https://jurnal.stkippersada.ac.id/jurnal/index.php/PEKAN/article/download/1463/1075)  
 36. HD Tari Dayak Kalimantan | tari Flying High (Eka Poetra) by Adryani Siadari \- YouTube, diakses Agustus 16, 2025, [https://m.youtube.com/watch?v=Q4mHwzmOjVY\&pp=0gcJCfwAo7VqN5tD](https://m.youtube.com/watch?v=Q4mHwzmOjVY&pp=0gcJCfwAo7VqN5tD)  
 37. The Legend \- Mengenal Lebih Dekat 'Maestro Dance' Didik Nini Thowok \- YouTube, diakses Agustus 16, 2025, [https://www.youtube.com/watch?v=HQoFx4P-Zho](https://www.youtube.com/watch?v=HQoFx4P-Zho)
+sumber gambar : https://infopublik.id/galeri/foto/detail/144704
