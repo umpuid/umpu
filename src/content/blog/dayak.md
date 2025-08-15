@@ -2,7 +2,7 @@
 title: "Suku Dayak"
 description: "Suku Dayak: Menjelajahi Kedalaman Sejarah, Budaya, dan Kehidupan Modern di Jantung Kalimantan"
 pubDate: "2025-08-15"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/COLLECTIE_TROPENMUSEUM_Een_Dajak_uit_Kutai_in_oorlogskleding_Borneo_TMnr_10005634.jpg/250px-COLLECTIE_TROPENMUSEUM_Een_Dajak_uit_Kutai_in_oorlogskleding_Borneo_TMnr_10005634.jpg"
 ---
 Daftar Isi
 - Pengantar: Menyapa Penjaga Hutan Borneo
