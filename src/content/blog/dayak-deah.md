@@ -1,8 +1,8 @@
 ---
 title: "Suku Dayak Deah"
 description: "Mengenal Suku Dayak Deah: Identitas, Kearifan, dan Ketahanan di Tengah Perubahan Zaman"
-pubDate: "2025-08-15"
-heroImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dayak_Deah_Man_160213001.JPG/500px-Dayak_Deah_Man_160213001.JPG?20180930054518"
+pubDate: "2025-08-16"
+heroImage: "https://yudifebrianda.wordpress.com/wp-content/uploads/2017/09/img_9909.jpg"
 ---
 
 ### **Daftar Isi**
