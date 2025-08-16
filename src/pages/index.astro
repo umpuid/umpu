@@ -10,6 +10,16 @@ import FormattedDate from '../components/FormattedDate.astro';
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 ).slice(0, 3);
+
+// Daftar URL gambar untuk galeri foto
+const photos = [
+	'https://umpu.or.id/tari-dayak-deah.jpg',
+	'https://umpu.or.id/tari-dayak-balian.jpg',
+	'https://umpu.or.id/ritual-adat-dayak.jpg',
+	'https://umpu.or.id/tari-dayak-deah.jpg',
+	'https://umpu.or.id/tari-dayak-balian.jpg',
+	'https://umpu.or.id/ritual-adat-dayak.jpg',
+];
 ---
 
 <!doctype html>
@@ -17,6 +27,7 @@ const posts = (await getCollection('blog')).sort(
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
+			/* Gaya untuk bagian postingan terbaru */
 			.latest-posts-section {
 				margin-top: 2rem;
 			}
@@ -59,6 +70,31 @@ const posts = (await getCollection('blog')).sort(
 				font-size: 0.875rem;
 				color: rgb(var(--gray));
 			}
+
+			/* Gaya untuk bagian galeri foto */
+			.gallery-section {
+				margin-top: 2rem;
+				margin-bottom: 2rem;
+			}
+			.gallery-section h2 {
+				text-align: center;
+				margin-bottom: 2rem;
+			}
+			.photo-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+				gap: 1rem;
+			}
+			.photo-grid img {
+				width: 100%;
+				height: 200px;
+				object-fit: cover;
+				border-radius: 8px;
+				transition: transform 0.3s ease;
+			}
+			.photo-grid img:hover {
+				transform: scale(1.05);
+			}
 		</style>
 	</head>
 	<body>
@@ -78,7 +114,7 @@ const posts = (await getCollection('blog')).sort(
 			<hr>
 
 			<section class="latest-posts-section">
-				<strong>Postingan Terbaru</strong>
+				<h2>Postingan Terbaru</h2>
 				<div class="post-grid">
 					{
 						posts.map((post) => (
@@ -93,6 +129,17 @@ const posts = (await getCollection('blog')).sort(
 							</a>
 						))
 					}
+				</div>
+			</section>
+
+			<hr>
+
+			<section class="gallery-section">
+				<h2>Galeri Foto</h2>
+				<div class="photo-grid">
+					{photos.map(url => (
+						<img src={url} alt="Galeri Foto" />
+					))}
 				</div>
 			</section>
 
