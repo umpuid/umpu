@@ -1,7 +1,7 @@
 ---
 title: "Upacara Adat Dayak Deah"
 description: "Upacara Adat Dayak Deah Mesiwah Pare Gumboh"
-pubDate: "2025-08-15"
+pubDate: "2025-08-16"
 heroImage: "https://www.spektakel.id/_next/image?url=https%3A%2F%2Fdata.spektakel.id%2Fimages%2Fevent_directory%2F20230817221909.jpg&w=1920&q=75"
 ---
 
